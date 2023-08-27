@@ -1,1 +1,1 @@
-Olá, estou estudando para aperfeiçoar meus conhecimentos em Git e GitHub, plataformas essencias para DEV's e outras áreas da Tecn. 
+Aprendendo mais sobre  Git e GitHub.
